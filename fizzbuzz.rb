@@ -1,5 +1,5 @@
 def fizzbuzz(number)
-  if number % by 3
+  if number % by (3)
     
 end
 
